@@ -1,4 +1,4 @@
-# CRUD--ist-Produk-Image
+# CRUD-List-Produk-Image
 CRUD product table - to store a list of products by displaying the purchase price and selling price complete with product images.
 
 ![image](https://github.com/AdRavi89/CRUD-List-Produk-Image/assets/122881309/38dfaaa3-8a1b-4200-aa4e-4fe69a8f685f)
